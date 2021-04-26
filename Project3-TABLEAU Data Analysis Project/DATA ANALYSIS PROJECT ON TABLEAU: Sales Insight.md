@@ -13,9 +13,9 @@ Simply,insights could be:
 
 Project Steps:
 
-1-)import the "db_dumb.sql" file to MySQL DB and getting some knowledge about data.
-2-)Plug MySQL with Tableau.
-3-)In Tableau, do data cleaning, ETL(Extract, transform ,load), currency normalization and handling invalid values etc.
-4-)And.. Make Dashboard !!
+1. import the "db_dumb.sql" file to MySQL DB and getting some knowledge about data.
+2. Plug MySQL with Tableau.
+3. In Tableau, do data cleaning, ETL(Extract, transform ,load), currency normalization and handling invalid values etc.
+4. And.. Make Dashboard !!
 
-Note: "db_dumb.sql" used for Revenue Analysis - "db_dumb_version_2.sql" file used for Profit Analysis 
+- Note: "db_dumb.sql" used for Revenue Analysis - "db_dumb_version_2.sql" file used for Profit Analysis 

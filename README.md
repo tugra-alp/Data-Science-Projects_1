@@ -21,7 +21,7 @@ Project steps:
    **R2 of Tuned Model:** 0.902
 
 ## [Project 2: Celebrity Face Recognition (End-to-End) : Image Classification with SVM](https://github.com/tugra-alp/Data-Science-Projects/tree/main/Project2-Celebrity%20Face%20Recognition)
-In this machine learning project, I classify celebrity personalities. I restrict classification to only 5 people. This project includes from data collection(**Image Scrapping**) to Deployment on AWS.
+In this machine learning project, I classify celebrity personalities. I restrict classification to only 5 people. This project includes from data collection**(Image Scrapping)** to Deployment on AWS. Random Forest, Logistic Regression and Support Vector Machines alogrithm were used for this study, and GridSearchCV method was used for model selection with tuning parameters.
 
 **Choosen People:**
 1. Cristiano Ronaldo
@@ -37,7 +37,7 @@ In this machine learning project, I classify celebrity personalities. I restrict
 * **server:** Python flask server 
 * **model:** Contains python notebook for model building 
 * **google_image_scrapping:** code to scrap google for images 
-* **datasets:** Dataset used for our model training 
+* **datasets:** Dataset used for our model training which includes celebrity images 
 
 **Technologies used in this project:**
 1. Python :arrow_lower_left:

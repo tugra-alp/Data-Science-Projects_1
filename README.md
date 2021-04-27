@@ -36,7 +36,7 @@ In this machine learning project, I classify celebrity personalities. I restrict
 * **UI:** This contains ui website code 
 * **server:** Python flask server 
 * **model:** Contains python notebook for model building 
-* **google_image_scrapping:** code to scrap google for images 
+* **google_image_scrapping:** Code to scrap google for images 
 * **datasets:** Dataset used for our model training which includes celebrity images 
 
 **Technologies used in this project:**

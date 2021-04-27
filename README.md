@@ -3,9 +3,9 @@
 Hi, I am Tugra and I'm new here :blush: , so here is the small portfolio for you. I will share more porjects soon.
 You can check description of whole my projects that i pushed.
  
-## [Project 1: Bengaluru House Project : Predict house Prices](https://github.com/tugra-alp/Data-Science-Projects/tree/main/Project1-Bengaluru%20House%20Project)
+## [Project 1: Bengaluru House Project : Predict House Prices](https://github.com/tugra-alp/Data-Science-Projects/tree/main/Project1-Bengaluru%20House%20Project)
 
-In this project, I actually try a low-code python module which is LazyPredict to see how it works. LazyPredict is allow us to see **which model can fit better**, with a few line codes and without any parameter tuning. Thus you get some insight which model or models can fit your data before using these models with hyperparameter tuning.
+In this project, I actually try a low-code python module which name is LazyPredict to see how it works. LazyPredict is allow us to see **which model can fit better**, with a few line codes and without any parameter tuning. Thus you get some insight which model or models can fit your data before using these models with hyperparameter tuning.
 Here is the link of the [LazyPredict Documentation](https://lazypredict.readthedocs.io/en/latest/index.html)
 
 Project steps:
@@ -53,5 +53,31 @@ In this machine learning project, I classify celebrity personalities. I restrict
 ![](https://github.com/tugra-alp/Data-Science-Projects/blob/main/Project2-Celebrity%20Face%20Recognition/Project%20Outcome%20Screenshots/Model%20Deployment%20on%20AWS.jpg)
 
 ## [Project 3: Data Analysis Project On TABLEAU : Sales Insight](https://github.com/tugra-alp/Data-Science-Projects/tree/main/Project3-TABLEAU%20Data%20Analysis%20Project)
+
+The case study is based on a computer hardware business which is facing challenges in dynamically changing market. Sales director decides to invest in data analysis project and he would like to build Tableau dashboard that can give him real time sales insights. 
+
+**Simply,insights could be:**
+ - Revenue breakdown cities
+ - Revenue breakdown by years and months
+ - Top 5 customers by revenue and sales quantity
+ - Top 5 products by revenue number
+  etc. 
+
+**Project Steps:**
+
+1. import the "db_dumb.sql" file to MySQL DB and getting some knowledge about data.
+2. Plug MySQL with Tableau.
+3. In Tableau, do data cleaning, ETL(Extract, transform ,load), currency normalization and handling invalid values etc.
+4. And.. Make Dashboard !!
+
+**Note:** "db_dumb.sql" used for Revenue Analysis - "db_dumb_version_2.sql" file used for Profit Analysis 
+- Revenue Dashboard
+
+![](https://github.com/tugra-alp/Data-Science-Projects/blob/main/Project3-TABLEAU%20Data%20Analysis%20Project/Dashboard%20-%20Revenue%20Analysis.png)
+
+- Profit Dashboard
+
+![](https://github.com/tugra-alp/Data-Science-Projects/blob/main/Project3-TABLEAU%20Data%20Analysis%20Project/Dashboard-Profit%20Analysis.png)
+
 ## [Project 4: Breast Cancer : ML Classification Project via SVC](https://github.com/tugra-alp/Data-Science-Projects/tree/main/Project4-Breast%20Cancer)
 ## [Project 5: Fashion MNIST Dataset : Image Classification with CNN](https://github.com/tugra-alp/Data-Science-Projects/tree/main/Project5-Fashion%20Mnist)

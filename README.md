@@ -16,7 +16,6 @@ Here is the link of the [LazyPredict Documentation](https://lazypredict.readthed
    **R2 of Tuned Model:** 0.902
 
 ## [Project 2: Celebrity Face Recognition (End-to-End) : Image Classification with SVM](https://github.com/tugra-alp/Data-Science-Projects/tree/main/Project2-Celebrity%20Face%20Recognition)
-![](https://github.com/tugra-alp/Data-Science-Projects/blob/main/images/Celebrity%20Person%20Classifier%20Ex1.png)
 In this machine learning project, I classify celebrity personalities. I restrict classification to only 5 people. This project includes from data collection(**Image Scrapping**) to Deployment on AWS.
 
 1. Cristiano Ronaldo
@@ -24,7 +23,7 @@ In this machine learning project, I classify celebrity personalities. I restrict
 3. Brad Pitt
 4. Johnny Depp
 5. Lionel Messi
-
+![](https://github.com/tugra-alp/Data-Science-Projects/blob/main/images/Celebrity%20Person%20Classifier%20Ex1.png)
 **Here is the folder structure:**
 * UI : This contains ui website code 
 * server: Python flask server
@@ -40,6 +39,9 @@ In this machine learning project, I classify celebrity personalities. I restrict
 5. Jupyter notebook, visual studio code and pycharm as IDE
 6. Python flask for http server
 7. HTML/CSS/Javascript for UI
+
+* A Screenshot after model deployment
+![](https://github.com/tugra-alp/Data-Science-Projects/blob/main/images/Model%20Deployment%20on%20AWS.jpg)
 
 
 

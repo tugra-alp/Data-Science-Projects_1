@@ -12,14 +12,37 @@ Here is the link of the [LazyPredict Documentation](https://lazypredict.readthed
 - Then I used **MLP(Multi-Layer Perceptron)** algorithms with Sklearn module to train data.
 - GridSearchCV was used for tuning.
 - Finally, I got the result of the test set.
-   **RMSE :**22.45
+   **RMSE :** 22.45
    **R2 of Tuned Model:** 0.902
 
-
-
-
-
 ## [Project 2: Celebrity Face Recognition (End-to-End) : Image Classification with SVM](https://github.com/tugra-alp/Data-Science-Projects/tree/main/Project2-Celebrity%20Face%20Recognition)
+
+In this machine learning project, I classify celebrity personalities. I restrict classification to only 5 people. This project includes from data collection(**image Scrapping**) to Deployment on AWS.
+
+1. Cristiano Ronaldo
+2. Cheki Chen
+3. Brad Pitt
+4. Johnny Depp
+5. Lionel Messi
+
+**Here is the folder structure:**
+* UI : This contains ui website code 
+* server: Python flask server
+* model: Contains python notebook for model building
+* google_image_scrapping: code to scrap google for images
+* images_dataset: Dataset used for our model training
+
+**Technologies used in this project:**
+1. Python 
+2. Numpy and OpenCV for data cleaning
+3. Matplotlib & Seaborn for data visualization
+4. Sklearn for model building
+5. Jupyter notebook, visual studio code and pycharm as IDE
+6. Python flask for http server
+7. HTML/CSS/Javascript for UI
+
+
+
 ## [Project 3: Data Analysis Project On TABLEAU : Sales Insight](https://github.com/tugra-alp/Data-Science-Projects/tree/main/Project3-TABLEAU%20Data%20Analysis%20Project)
 ## [Project 4: Breast Cancer : ML Classification Project via SVC](https://github.com/tugra-alp/Data-Science-Projects/tree/main/Project4-Breast%20Cancer)
 ## [Project 5: Fashion MNIST Dataset : Image Classification with CNN](https://github.com/tugra-alp/Data-Science-Projects/tree/main/Project5-Fashion%20Mnist)

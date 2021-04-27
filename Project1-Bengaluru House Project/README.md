@@ -1,4 +1,4 @@
-- Bengaluru House Project
+# Bengaluru House Project
 
 In this project, I actually try a low-code python module which name is LazyPredict to see how it works. LazyPredict is allow us to see **which model can fit better**, with a few line codes and without any parameter tuning. Thus you get some insight which model or models can fit your data before using these models with hyperparameter tuning.
 Here is the link of the [LazyPredict Documentation](https://lazypredict.readthedocs.io/en/latest/index.html)

@@ -23,7 +23,9 @@ In this machine learning project, I classify celebrity personalities. I restrict
 3. Brad Pitt
 4. Johnny Depp
 5. Lionel Messi
+
 ![](https://github.com/tugra-alp/Data-Science-Projects/blob/main/images/Celebrity%20Person%20Classifier%20Ex1.png)
+
 **Here is the folder structure:**
 * UI : This contains ui website code 
 * server: Python flask server

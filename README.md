@@ -1,4 +1,7 @@
 # Overwiev of Projects
+
+Hi, I am Tugra and I'm new here :blush: , so here is the small portfolio for you. I will share more porjects soon.
+You can check description of whole my projects that i pushed from here.
  
 ## [Project 1: Bengaluru House Project : Predict house Prices](https://github.com/tugra-alp/Data-Science-Projects/tree/main/Project1-Bengaluru%20House%20Project)
 
@@ -28,24 +31,23 @@ In this machine learning project, I classify celebrity personalities. I restrict
 
 **Here is the folder structure:**
 * UI : This contains ui website code 
-* server: Python flask server
-* model: Contains python notebook for model building
-* google_image_scrapping: code to scrap google for images
-* images_dataset: Dataset used for our model training
+* server: Python flask server 
+* model: Contains python notebook for model building 
+* google_image_scrapping: code to scrap google for images 
+* images_dataset: Dataset used for our model training 
 
 **Technologies used in this project:**
-1. Python 
-2. Numpy and OpenCV for data cleaning
-3. Matplotlib & Seaborn for data visualization
-4. Sklearn for model building
-5. Jupyter notebook, visual studio code and pycharm as IDE
-6. Python flask for http server
-7. HTML/CSS/Javascript for UI
+1. Python :arrow_lower_left:
+2. Numpy and OpenCV for data cleaning :arrow_lower_left:
+3. Matplotlib & Seaborn for data visualization :arrow_lower_left:
+4. Sklearn for model building :arrow_lower_left:
+5. Jupyter notebook, visual studio code and pycharm as IDE :arrow_lower_left:
+6. Python flask for http server :arrow_lower_left:
+7. HTML/CSS/Javascript for UI :arrow_lower_left:
 
-* A Screenshot after model deployment
+**A Screenshot after model deployment**
+
 ![](https://github.com/tugra-alp/Data-Science-Projects/blob/main/images/Model%20Deployment%20on%20AWS.jpg)
-
-
 
 ## [Project 3: Data Analysis Project On TABLEAU : Sales Insight](https://github.com/tugra-alp/Data-Science-Projects/tree/main/Project3-TABLEAU%20Data%20Analysis%20Project)
 ## [Project 4: Breast Cancer : ML Classification Project via SVC](https://github.com/tugra-alp/Data-Science-Projects/tree/main/Project4-Breast%20Cancer)

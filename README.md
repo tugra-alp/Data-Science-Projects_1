@@ -79,5 +79,34 @@ The case study is based on a computer hardware business which is facing challeng
 
 ![](https://github.com/tugra-alp/Data-Science-Projects/blob/main/Project3-TABLEAU%20Data%20Analysis%20Project/Dashboard-Profit%20Analysis.png)
 
-## [Project 4: Breast Cancer : ML Classification Project via SVC](https://github.com/tugra-alp/Data-Science-Projects/tree/main/Project4-Breast%20Cancer)
+
+## [Project 4: Breast Cancer : ML Classification Project](https://github.com/tugra-alp/Data-Science-Projects/tree/main/Project4-Breast%20Cancer)
+
+Predicting if the cancer diagnosis is **benign** or **malignant** based on several observations/features. Support Vector Classification algorithm used for this study with GridSearchCV method to reach best model parameter.
+
+**30 features are used, examples:**
+
+  - radius (mean of distances from center to points on the perimeter)
+  - texture (standard deviation of gray-scale values)
+  - perimeter
+  - area
+  - smoothness (local variation in radius lengths)
+  - compactness (perimeter^2 / area - 1.0)
+  - concavity (severity of concave portions of the contour)
+  - concave points (number of concave portions of the contour)
+  - symmetry 
+  - fractal dimension ("coastline approximation" - 1)
+Datasets are linearly separable using all 30 input features
+
+Number of Instances: 569
+
+Class Distribution: 212 Malignant, 357 Benign
+
+Target class:
+
+   - Malignant
+   - Benign
+
+**https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)**
+
 ## [Project 5: Fashion MNIST Dataset : Image Classification with CNN](https://github.com/tugra-alp/Data-Science-Projects/tree/main/Project5-Fashion%20Mnist)

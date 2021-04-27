@@ -107,6 +107,15 @@ Target class:
    - Malignant
    - Benign
 
-- Dataset: **https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)**
+Dataset: **https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)**
+
 
 ## [Project 5: Fashion MNIST Dataset : Image Classification with CNN](https://github.com/tugra-alp/Data-Science-Projects/tree/main/Project5-Fashion%20Mnist)
+
+Basic Deep Learning project to predict class of attirbutes with Convolution Neural Network using Fashion mnist dataset.
+
+- Dataset : https://www.kaggle.com/zalando-research/fashionmnist
+
+
+
+

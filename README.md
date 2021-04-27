@@ -50,7 +50,7 @@ In this machine learning project, I classify celebrity personalities. I restrict
 
 **A Screenshot after model deployment**
 
-![](https://github.com/tugra-alp/Data-Science-Projects/blob/main/images/Model%20Deployment%20on%20AWS.jpg)
+![](https://github.com/tugra-alp/Data-Science-Projects/blob/main/Project2-Celebrity%20Face%20Recognition/Project%20Outcome%20Screenshots/Model%20Deployment%20on%20AWS.jpg)
 
 ## [Project 3: Data Analysis Project On TABLEAU : Sales Insight](https://github.com/tugra-alp/Data-Science-Projects/tree/main/Project3-TABLEAU%20Data%20Analysis%20Project)
 ## [Project 4: Breast Cancer : ML Classification Project via SVC](https://github.com/tugra-alp/Data-Science-Projects/tree/main/Project4-Breast%20Cancer)

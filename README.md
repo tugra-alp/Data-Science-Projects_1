@@ -2,7 +2,7 @@
 
 Hi, I am Tugra. I am a engineer who is curious about Machine learning and artificial intelligence and stepped into this field with a master's program in Istanbul :blush:. My goal is to learn something new every day and make more projects :muscle: so here is the small portfolio for you. I will share more porjects soon. You can check description of whole my projects that i pushed.
  
-## [Project 1: Bengaluru House Prices : Predict House Prices](https://github.com/tugra-alp/Data-Science-Projects/tree/main/Project1-Bengaluru%20House%20Project)
+## [Project 1: Bengaluru House Project : Predict House Prices](https://github.com/tugra-alp/Data-Science-Projects/tree/main/Project1-Bengaluru%20House%20Project)
 
 In this project, I actually try a low-code python module which name is LazyPredict to see how it works. LazyPredict is allow us to see **which model can fit better**, with a few line codes and without any parameter tuning. Thus you get some insight which model or models can fit your data before using these models with hyperparameter tuning.
 Here is the link of the [LazyPredict Documentation](https://lazypredict.readthedocs.io/en/latest/index.html)

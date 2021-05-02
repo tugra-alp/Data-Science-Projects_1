@@ -117,7 +117,9 @@ Basic Deep Learning project to predict class of attirbutes with Convolution Neur
 - 
 ## [Project 6: End-to-End Deployment of Zomato Restaurant Ratings  : Regression Task](https://github.com/tugra-alp/Data-Science-Projects/tree/main/Project6-%20Zomato%20Restaurant%20Ratings)
 
+
 ![](https://github.com/tugra-alp/Data-Science-Projects/blob/main/Project6-%20Zomato%20Restaurant%20Ratings/output-images/input-given.png)
 
 
+![](https://github.com/tugra-alp/Data-Science-Projects/blob/main/Project6-%20Zomato%20Restaurant%20Ratings/output-images/predicted%20result.png)
 

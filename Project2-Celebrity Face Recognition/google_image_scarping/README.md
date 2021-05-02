@@ -3,4 +3,4 @@
     https://chromedriver.chromium.org/downloads
 2. Put the ChromeDriver.exe file to your work directory 
 3. Execute the image_scarping.py file. ( this two files should be in the same directory)
-4. You can find Another details from here (https://towardsdatascience.com/image-scraping-with-python-a96feda8af2d)
+4. You can find more details from here (https://towardsdatascience.com/image-scraping-with-python-a96feda8af2d)

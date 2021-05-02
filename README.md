@@ -19,7 +19,7 @@ Project steps:
    **RMSE :** 22.45
    **R2 of Tuned Model:** 0.902
 
-## [Project 2: Celebrity Face Recognition (End-to-End) : Image Classification with SVM](https://github.com/tugra-alp/Data-Science-Projects/tree/main/Project2-Celebrity%20Face%20Recognition)
+## [Project 2: End-to-End Celebrity Face Recognition : Image Classification with SVM](https://github.com/tugra-alp/Data-Science-Projects/tree/main/Project2-Celebrity%20Face%20Recognition)
 In this machine learning project, I classify celebrity personalities. I restrict classification to only 5 people. This project includes from data collection **(Image Scrapping)** to Deployment on AWS. Random Forest, Logistic Regression and Support Vector Machines algorithm were used for this study, and GridSearchCV method was used for model selection with tuning parameters.
 
 **Choosen People:**

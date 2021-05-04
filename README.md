@@ -133,7 +133,7 @@ Basic Deep Learning project to predict class of attirbutes with Convolution Neur
 
 - It is a Regression task to predict flight price with given inputs.
 - Performed EDA and some feature engineering technics such as one-hot encoding.
-- Sklearn and Pycaret module were used in modelling part.
+- Sklearn and Pycaret modules were used in modelling part.
 - Applied LightGBM - CatBoos and **XGBoost** algorithms with GridSearchCV method.
 - **Source :** Kaggle
 

@@ -125,3 +125,5 @@ Basic Deep Learning project to predict class of attirbutes with Convolution Neur
 
 ![](https://github.com/tugra-alp/Data-Science-Projects/blob/main/Project6-%20Zomato%20Restaurant%20Ratings/output-images/predicted%20result.png)
 
+## [Project 7: Flight Price Prediction with XGBoost: Regression Task](https://github.com/tugra-alp/Data-Science-Projects/tree/main/Project7-%20Flight%20Price%20Prediction)
+

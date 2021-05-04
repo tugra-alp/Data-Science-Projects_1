@@ -135,7 +135,7 @@ Basic Deep Learning project to predict class of attirbutes with Convolution Neur
 - Performed EDA and some feature engineering technics such as one-hot encoding.
 - Sklearn and Pycaret modules were used in modelling part.
 - Applied LightGBM - CatBoos and **XGBoost** algorithms with GridSearchCV method.
-- **Source :** ![Kaggle](https://www.kaggle.com/nikhilmittal/flight-fare-prediction-mh)
+- **Source :** [Kaggle](https://www.kaggle.com/nikhilmittal/flight-fare-prediction-mh)
 
 
 

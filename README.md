@@ -118,13 +118,13 @@ Basic Deep Learning project to predict class of attirbutes with Convolution Neur
 
 ## [Project 6: (End-to-End) Predicting of Zomato Restaurant Ratings  : Regression Task / Flask Deployment](https://github.com/tugra-alp/Data-Science-Projects/tree/main/Project6-%20Zomato%20Restaurant%20Ratings)
 
+![](https://github.com/tugra-alp/Data-Science-Projects/blob/main/Project6-%20Zomato%20Restaurant%20Ratings/output-images/input-given.png)
+
+
 **The main agenda of this project is:**
 - Perform extensive Exploratory Data Analysis(EDA) on the Zomato Dataset
 - Build an appropriate Machine Learning Model that will help various Zomato Restaurants to predict their respective Ratings based on certain features
 - DEPLOY the Machine learning model via Flask that can be used to make live predictions of restaurants ratings
-
-
-![](https://github.com/tugra-alp/Data-Science-Projects/blob/main/Project6-%20Zomato%20Restaurant%20Ratings/output-images/input-given.png)
 
 
 ![](https://github.com/tugra-alp/Data-Science-Projects/blob/main/Project6-%20Zomato%20Restaurant%20Ratings/output-images/predicted%20result.png)

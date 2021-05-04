@@ -19,7 +19,7 @@ Project steps:
    **RMSE :** 22.45
    **R2 of Tuned Model:** 0.902
 
-## [Project 2: Celebrity Face Recognition (End-to-End) : Image Classification with SVM](https://github.com/tugra-alp/Data-Science-Projects/tree/main/Project2-Celebrity%20Face%20Recognition)
+## [Project 2: (End-to-End) Celebrity Face Recognition : Image Classification with SVM](https://github.com/tugra-alp/Data-Science-Projects/tree/main/Project2-Celebrity%20Face%20Recognition)
 In this machine learning project, I classify celebrity personalities. I restrict classification to only 5 people. This project includes from data collection **(Image Scrapping)** to Deployment on AWS. Random Forest, Logistic Regression and Support Vector Machines algorithm were used for this study, and GridSearchCV method was used for model selection with tuning parameters.
 
 **Choosen People:**
@@ -116,5 +116,12 @@ Basic Deep Learning project to predict class of attirbutes with Convolution Neur
 - Dataset : https://www.kaggle.com/zalando-research/fashionmnist
 
 
+## [Project 6: (End-to-End) Predicting of Zomato Restaurant Ratings  : Regression Task](https://github.com/tugra-alp/Data-Science-Projects/tree/main/Project6-%20Zomato%20Restaurant%20Ratings)
 
+- Description of project will be added soon.
+
+![](https://github.com/tugra-alp/Data-Science-Projects/blob/main/Project6-%20Zomato%20Restaurant%20Ratings/output-images/input-given.png)
+
+
+![](https://github.com/tugra-alp/Data-Science-Projects/blob/main/Project6-%20Zomato%20Restaurant%20Ratings/output-images/predicted%20result.png)
 

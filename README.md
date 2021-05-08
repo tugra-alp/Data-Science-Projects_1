@@ -137,6 +137,16 @@ Basic Deep Learning project to predict class of attirbutes with Convolution Neur
 - Applied LightGBM - CatBoos and **XGBoost** algorithms with GridSearchCV method.
 - **Source :** [Kaggle](https://www.kaggle.com/nikhilmittal/flight-fare-prediction-mh)
 
+
+## [Project 8: Credit Card Fraud Detection : Deep Learning Task](https://github.com/tugra-alp/Data-Science-Projects/tree/main/Project8%20-Credit%20Card%20Fruad%20Detection)
+
+
+- Dataset is from [kaggle](https://www.kaggle.com/mlg-ulb/creditcardfraud)
+- Applied some visualizations to perform EDA
+- Handling with imbalanced data to using **Downsampling** and **SMOTE**
+- Modelling with **Desicin trees**(Sklearn) and **Convolutional Neural Network**(Keras)
+
+
 ## [Project 9: Stock Market Analysis with Using K-means : Unsupervised Task](https://github.com/tugra-alp/Data-Science-Projects/tree/main/Project9-%20Stock%20Market%20Clustering)
 
 - Fetching 27 companies data from **Yahoo Finance** with using pandas-datareader module

@@ -137,5 +137,10 @@ Basic Deep Learning project to predict class of attirbutes with Convolution Neur
 - Applied LightGBM - CatBoos and **XGBoost** algorithms with GridSearchCV method.
 - **Source :** [Kaggle](https://www.kaggle.com/nikhilmittal/flight-fare-prediction-mh)
 
+## [Project 9: Stock Market Analysis with Using K-means : Unsupervised Task](https://github.com/tugra-alp/Data-Science-Projects/tree/main/Project9-%20Stock%20Market%20Clustering)
+
+- Fetching 27 companies data from **Yahoo Finance** with using pandas-datareader module
+- Used pipeline to applying **normalize , PCA and K-means**
+- There will be further studies on Stock Prices such as more effective visualizations and applying **Deep Learning methods like LSTM**
 
 

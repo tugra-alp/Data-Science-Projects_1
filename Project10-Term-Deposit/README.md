@@ -1,4 +1,4 @@
-## Term Deposit Project : Predicting Customers Subscription with Using Machine Learning 
+## Term Deposit Marketing Project : Predicting Customers Subscription with Using Machine Learning 
 
 ### Data Description 
 

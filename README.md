@@ -1,6 +1,6 @@
 # Overwiev of Projects
 
-Hi, I am Tugra. I am a engineer who is curious about Machine learning and artificial intelligence and stepped into this field with a master's program in Istanbul :blush:. My goal is to learn something new every day and make more projects :muscle: so here is the small portfolio for you. I will share more porjects soon. You can check description of whole my projects that i pushed.
+Hi, I am Tugra. I am a engineer who is curious about Machine learning and artificial intelligence and stepped into this field with a master program in Istanbul :blush:. My goal is to learn something new every day and make more projects :muscle: so here is the small portfolio for you. You can check description of whole my projects that i pushed.
  
 ## [Project 1: Bengaluru House Project : Predict House Prices](https://github.com/tugra-alp/Data-Science-Projects/tree/main/Project1-Bengaluru%20House%20Project)
 
@@ -136,6 +136,16 @@ Basic Deep Learning project to predict class of attirbutes with Convolution Neur
 - Sklearn and Pycaret modules were used in modelling part.
 - Applied LightGBM - CatBoos and **XGBoost** algorithms with GridSearchCV method.
 - **Source :** [Kaggle](https://www.kaggle.com/nikhilmittal/flight-fare-prediction-mh)
+
+
+## [Project 8: Credit Card Fraud Detection : Deep Learning Task](https://github.com/tugra-alp/Data-Science-Projects/tree/main/Project8%20-Credit%20Card%20Fruad%20Detection)
+
+
+- Dataset is from [kaggle](https://www.kaggle.com/mlg-ulb/creditcardfraud)
+- Applied some visualizations to perform EDA
+- Handling with imbalanced data to using **Downsampling** and **SMOTE**
+- Modelling with **Desicin trees**(Sklearn) and **Convolutional Neural Network**(Keras)
+
 
 ## [Project 9: Stock Market Analysis with Using K-means : Unsupervised Task](https://github.com/tugra-alp/Data-Science-Projects/tree/main/Project9-%20Stock%20Market%20Clustering)
 

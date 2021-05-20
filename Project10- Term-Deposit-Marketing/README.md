@@ -8,19 +8,19 @@ The data comes from direct marketing efforts of a European banking institution. 
 
 1. input/:  This folder consists of all the input files and data for this project.
 
-- term-deposit-marketing-2020 : original dataset
-- pre-processed: Saved as csv file after performed exploraty data analysis and feature engineering.
-- termDeposit_stratified_folds : Saved as csv file after split the pre-processed.csv with using stratified k-fold cv. This will be used while model training.
+ **term-deposit-marketing-2020.csv :** Original dataset
+ **pre-processed.csv :** Saved as csv file after performed exploraty data analysis and feature engineering.
+ **termDeposit_stratified_folds.csv :** Saved as csv file after split the pre-processed.csv with using stratified k-fold cv. **This will be used while model training.**
 
 2. src/: This file include all the python scripts associated with the project here.
 
  **create_stratified_kfold.py :** Split the pre-proccessed.csv file into 5 folds and saved as csv file whcih name is termDeposit_stratified_folds.csv
  **rs_model_selection.py :** Model selection with using 5 fold cross validation. (Random Search CV method )
  **train.py and final_train.py :** For model training with using best hyperparamters.
- **config.py :** includes input and model output file paths
- **model_dispatcher.py :** includes selected models and their best paramters for train.py file. 
+ **config.py :** Includes input and model output file paths
+ **model_dispatcher.py :** Includes selected models and their best paramters for train.py file. 
 
-3. jupyter-lab/ : includes jupyter-lab files.
+3. jupyter-lab/ : Includes jupyter-lab files.
 
  **pre-processing&EDA :** All pre processing, EDA and feature angineering part to prepare data for training.
 

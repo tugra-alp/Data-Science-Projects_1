@@ -6,7 +6,7 @@ The data comes from direct marketing efforts of a European banking institution. 
 
 ### File Structure & Description
 
-**input:**  This folder consists of all the input files and data for this project.
+**input/:**  This folder consists of all the input files and data for this project.
 
 - term-deposit-marketing-2020 : original dataset
 - pre-processed: Saved as csv file after performed exploraty data analysis and feature engineering.
@@ -20,13 +20,13 @@ The data comes from direct marketing efforts of a European banking institution. 
 - config.py : includes input and model output file paths
 - model_dispatcher.py : includes selected models and their best paramters for train.py file. 
 
-**jupyter-lab :** includes jupyter-lab files.
+**jupyter-lab/ :** includes jupyter-lab files.
 
 - pre-processing&EDA : All pre processing, EDA and feature angineering part to prepare data for training.
 
-**models :** Includes model output filse as .pkl format.
+**models/ :** Includes model output filse as .pkl format.
 
-**screenshot-of-model-results :** Includes screenshot of test accuracy of final model.
+**screenshot-of-model-results/ :** Includes screenshot of test accuracy of final model.
 
 ### Description of Project 
 
